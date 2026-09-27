@@ -5,18 +5,20 @@ description: "气候 · 空间 · 人"
 ---
 
 ::: {.hero .lab-hero}
-::: {}
+::: {.hero-copy}
 # Owl Lab
 
 <p class="identity-line">气候 · 空间 · 人</p>
 <p class="identity-line identity-line-en">Urban Climate · <span class="keep-together">Built Environment · People</span></p>
 
 <p class="hero-statement">我们试图拆解气候、城市空间与人之间复杂而不断变化的关系。</p>
+::: {.academic-description}
+Owl Lab 关注气候变化背景下建成环境与城市环境过程之间的相互作用，研究空间条件与空间干预如何塑造微气候与热环境，这些变化如何进一步影响人的环境暴露、感知、行为与健康，并追踪其在不同尺度、时间过程与极端气候条件下的变化。我们希望将这些证据重新带回建筑与城市设计，支持更具气候响应性的人居环境决策。
 :::
-
-::: {.hero-note .academic-description}
-Owl Lab 关注气候变化背景下建成环境与城市环境过程的相互作用，研究其如何进一步塑造人的环境暴露、感知与行为，并探索这些认识如何转化为气候响应型的设计与规划策略。
 :::
+<div class="hero-logo">
+<img src="assets/brand/logo-mini.png" alt="Owl Lab owl mark" />
+</div>
 :::
 
 ::: {.editorial-section}
@@ -32,27 +34,24 @@ Owl Lab 关注气候变化背景下建成环境与城市环境过程的相互作
 <strong>气候响应型建成环境</strong>
 :::
 ::: {.research-tile .thread-violet}
-<span class="tile-number">01</span>
-
-### [城市空间与环境过程](research/space-process/)
-<p class="tile-en">Urban Space &amp; Environmental Processes</p>
-<p>空间条件与干预如何产生环境效应？</p>
+<div class="tile-number">01</div>
+<div class="tile-title-zh"><a href="research/space-process/">城市空间与环境过程</a></div>
+<div class="tile-title-en">Urban Space &amp; Environmental Processes</div>
+<div class="tile-question">空间条件与干预如何产生环境效应？</div>
 :::
 
 ::: {.research-tile .thread-clay}
-<span class="tile-number">02</span>
-
-### [人与环境交互](research/human-environment/)
-<p class="tile-en">Human–Environment Interaction</p>
-<p>环境条件如何转化为人的真实体验与结果？</p>
+<div class="tile-number">02</div>
+<div class="tile-title-zh"><a href="research/human-environment/">人与环境交互</a></div>
+<div class="tile-title-en">Human–Environment Interaction</div>
+<div class="tile-question">环境条件如何转化为人的真实体验与结果？</div>
 :::
 
 ::: {.research-tile .thread-blue-grey}
-<span class="tile-number">03</span>
-
-### [环境感知、建模与计算](research/sensing-modelling/)
-<p class="tile-en">Environmental Sensing, Modelling &amp; Computation</p>
-<p>如何更准确、高效且适切地感知、量化和模拟？</p>
+<div class="tile-number">03</div>
+<div class="tile-title-zh"><a href="research/sensing-modelling/">环境感知、建模与计算</a></div>
+<div class="tile-title-en">Environmental Sensing, Modelling &amp; Computation</div>
+<div class="tile-question">如何更准确、高效且适切地感知、量化和模拟？</div>
 :::
 :::
 :::
@@ -66,7 +65,9 @@ Owl Lab 关注气候变化背景下建成环境与城市环境过程的相互作
 
 <div class="notebook-quote"><p><span class="keep-together">对问题保持好奇，</span><br><span class="keep-together">对成长保持耐心，</span><br><span class="keep-together">对彼此保持真诚。</span></p><p>我们认真做研究，并轻盈相处。</p></div>
 
+::: {.notebook-cta}
 [进入 Owl Lab Notebook →](notebook/index.qmd){.text-link}
+:::
 :::
 
 ::: {.editorial-section .home-compact}
@@ -75,17 +76,15 @@ Owl Lab 关注气候变化背景下建成环境与城市环境过程的相互作
 
 ## People {.initial-accent}
 :::
-::: {.project-row}
-<div><span class="meta">PI</span></div>
-::: {}
-### 欧阳婉璐 · Wanlu Ouyang
+::: {.section-main}
+<p class="pi-name"><strong>欧阳婉璐 · Wanlu Ouyang · PI</strong></p>
 南京大学建筑与城市规划学院  
 School of Architecture and Urban Planning, Nanjing University
 
-<span class="content-placeholder">在读学生信息待确认后加入。</span>
+助理教授 / 特聘研究员
+Assistant Professor / Research Fellow
 
 [成员与加入方式 →](people.qmd){.text-link}
-:::
 :::
 :::
 
@@ -95,7 +94,16 @@ School of Architecture and Urban Planning, Nanjing University
 
 ## News {.initial-accent}
 :::
-<span class="content-placeholder">暂无已确认的动态条目。</span>
+::: {.section-main}
+
+::: {.home-news-entry}
+<div>
+<strong>Owl Lab website launched.</strong>
+<span>Owl Lab 网站上线。</span>
+</div>
+<span class="news-date">2026.09.27</span>
+:::
 
 [更多动态 →](news.qmd){.text-link}
+:::
 :::

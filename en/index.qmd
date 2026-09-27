@@ -5,18 +5,20 @@ description: "Urban Climate · Built Environment · People"
 ---
 
 ::: {.hero .lab-hero}
-::: {}
+::: {.hero-copy}
 # Owl Lab
 
 <p class="identity-line">Urban Climate · <span class="keep-together">Built Environment · People</span></p>
 <p class="identity-line identity-line-en">气候 · 空间 · 人</p>
 
 <p class="hero-statement">We try to disentangle the complex and continually changing relationships among climate, urban space, and people.</p>
+::: {.academic-description}
+Owl Lab studies how built environments and urban environmental processes interact under climate change, how spatial conditions and interventions shape microclimates and thermal environments, how these changes affect human exposure, perception, behavior and health across scales, time and extreme climate conditions, and how the resulting evidence can inform climate-responsive architectural and urban design.
 :::
-
-::: {.hero-note .academic-description}
-Owl Lab studies how built environments interact with urban environmental processes under climate change, how these relationships shape human exposure, perception, and behavior, and how such knowledge can inform climate-responsive design and planning.
 :::
+<div class="hero-logo">
+<img src="../assets/brand/logo-mini.png" alt="Owl Lab owl mark" />
+</div>
 :::
 
 ::: {.editorial-section}
@@ -32,25 +34,22 @@ Owl Lab studies how built environments interact with urban environmental process
 <strong>Climate-responsive Built Environment</strong>
 :::
 ::: {.research-tile .thread-violet}
-<span class="tile-number">01</span>
-
-### [Urban Space &amp; Environmental Processes](research/space-process/)
-<p class="tile-en">城市空间与环境过程</p>
-<p>How do spatial conditions and interventions produce environmental effects?</p>
+<div class="tile-number">01</div>
+<div class="tile-title-zh"><a href="research/space-process/">城市空间与环境过程</a></div>
+<div class="tile-title-en">Urban Space &amp; Environmental Processes</div>
+<div class="tile-question">How do spatial conditions and interventions produce environmental effects?</div>
 :::
 ::: {.research-tile .thread-clay}
-<span class="tile-number">02</span>
-
-### [Human–Environment Interaction](research/human-environment/)
-<p class="tile-en">人与环境交互</p>
-<p>How do environmental conditions become lived experience and outcomes?</p>
+<div class="tile-number">02</div>
+<div class="tile-title-zh"><a href="research/human-environment/">人与环境交互</a></div>
+<div class="tile-title-en">Human–Environment Interaction</div>
+<div class="tile-question">How do environmental conditions become lived experience and outcomes?</div>
 :::
 ::: {.research-tile .thread-blue-grey}
-<span class="tile-number">03</span>
-
-### [Environmental Sensing, Modelling &amp; Computation](research/sensing-modelling/)
-<p class="tile-en">环境感知、建模与计算</p>
-<p>How can urban processes be sensed, quantified and modelled more appropriately?</p>
+<div class="tile-number">03</div>
+<div class="tile-title-zh"><a href="research/sensing-modelling/">环境感知、建模与计算</a></div>
+<div class="tile-title-en">Environmental Sensing, Modelling &amp; Computation</div>
+<div class="tile-question">How can urban processes be sensed, quantified and modelled more appropriately?</div>
 :::
 :::
 :::
@@ -61,7 +60,9 @@ Owl Lab studies how built environments interact with urban environmental process
 ## Notebook {.initial-accent}
 :::
 <div class="notebook-quote"><p>Stay curious about questions,<br>patient with growth,<br>and honest with one another.</p><p>We take research seriously, and relate to one another with lightness.</p></div>
+::: {.notebook-cta}
 [Enter the Owl Lab Notebook →](notebook/index.qmd){.text-link}
+:::
 :::
 
 ::: {.editorial-section .home-compact}
@@ -69,17 +70,14 @@ Owl Lab studies how built environments interact with urban environmental process
 <span class="section-number">Meet the group</span>
 ## People {.initial-accent}
 :::
-::: {.project-row}
-<div><span class="meta">PI</span></div>
-::: {}
-### Wanlu Ouyang · 欧阳婉璐
+::: {.section-main}
+<p class="pi-name"><strong>Wanlu Ouyang · 欧阳婉璐 · PI</strong></p>
 School of Architecture and Urban Planning, Nanjing University  
 南京大学建筑与城市规划学院
 
-<span class="content-placeholder">Current students will be added when their information is confirmed.</span>
+Assistant Professor / Research Fellow
 
 [People and joining →](people.qmd){.text-link}
-:::
 :::
 :::
 
@@ -88,7 +86,16 @@ School of Architecture and Urban Planning, Nanjing University
 <span class="section-number">Recent</span>
 ## News {.initial-accent}
 :::
-<span class="content-placeholder">No confirmed news entries yet.</span>
+::: {.section-main}
+
+::: {.home-news-entry}
+<div>
+<strong>Owl Lab website launched.</strong>
+<span>Owl Lab 网站上线。</span>
+</div>
+<span class="news-date">2026.09.27</span>
+:::
 
 [More news →](news.qmd){.text-link}
+:::
 :::

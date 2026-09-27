@@ -10,5 +10,8 @@ description: "Owl Lab 动态"
 :::
 
 ::: {.prose}
-<p class="content-placeholder">尚未加入动态。确认后的内容将按时间倒序排列，并可使用轻量标签。</p>
+::: {.news-entry}
+<span class="news-date">2026.09.27</span>
+<div><h2>Owl Lab 网站上线。</h2><p>Owl Lab website launched.</p></div>
+:::
 :::

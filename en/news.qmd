@@ -10,5 +10,8 @@ description: "Owl Lab news"
 :::
 
 ::: {.prose}
-<p class="content-placeholder">No news has been added yet. Confirmed entries will appear in reverse chronological order with lightweight tags.</p>
+::: {.news-entry}
+<span class="news-date">2026.09.27</span>
+<div><h2>Owl Lab website launched.</h2><p>Owl Lab 网站上线。</p></div>
+:::
 :::

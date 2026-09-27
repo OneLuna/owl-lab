@@ -1,0 +1,8 @@
+# Copy templates/news.yml for each real update.
+- date: "2026-09-27"
+  title: "Owl Lab website launched."
+  title_zh: "Owl Lab 网站上线。"
+  summary: ""
+  summary_zh: ""
+  tags: []
+  image: ""

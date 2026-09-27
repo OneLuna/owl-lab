@@ -18,6 +18,7 @@ description: "Owl Lab people and joining information"
 ::: {.person-details}
 ### Wanlu Ouyang
 <p class="person-name-en">欧阳婉璐</p>
+<p class="person-role">Assistant Professor / Research Fellow</p>
 
 School of Architecture and Urban Planning, Nanjing University  
 南京大学建筑与城市规划学院

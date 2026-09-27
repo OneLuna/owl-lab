@@ -18,6 +18,7 @@ description: "Owl Lab 成员与加入方式"
 ::: {.person-details}
 ### 欧阳婉璐
 <p class="person-name-en">Wanlu Ouyang</p>
+<p class="person-role">助理教授 / 特聘研究员</p>
 
 南京大学建筑与城市规划学院  
 School of Architecture and Urban Planning, Nanjing University
