@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-Hans" xml:lang="zh-Hans"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="关于我们如何独立思考，又是如何一起工作和成长的一份使用手册（持续更新中）">
+
+<title>Owl Lab Notebook – Owl Lab</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<link href="../assets/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-31310a5af635e160e0a2dd2b0d46f7e7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "没有结果",
+    "search-matching-documents-text": "匹配的文档",
+    "search-copy-link-title": "复制搜索链接",
+    "search-hide-matches-text": "隐藏其它匹配结果",
+    "search-more-match-text": "更多匹配结果",
+    "search-more-matches-text": "更多匹配结果",
+    "search-clear-button-title": "清除",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "取消",
+    "search-submit-button-title": "提交",
+    "search-label": "搜索"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<meta name="theme-color" content="#f6f5f1">
+
+
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../assets/brand/logo-mini.png" alt="Owl Lab logo" class="navbar-logo light-content">
+    <img src="../assets/brand/logo-mini.png" alt="Owl Lab logo" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Owl Lab</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="展开或折叠导航栏" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../research/index.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../people.html"> 
+<span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../notebook/index.html" aria-current="page"> 
+<span class="menu-text">Notebook</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../news.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about/index.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../en/index.html"> 
+<span class="menu-text">EN</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Owl Lab Notebook</h1>
+</div>
+
+<div>
+  <div class="description">
+    关于我们如何独立思考，又是如何一起工作和成长的一份使用手册（持续更新中）
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="notebook-layout">
+<div class="notebook-nav">
+<div class="meta">
+Owl Lab Notebook<br>v1.1<br><span class="notebook-date">September 2026 / 2026年9月</span>
+</div>
+<p><a href="#preface">写在前面</a> <a href="#independent">独立的人</a> <a href="#lightness">轻盈与可靠</a> <a href="#agency">主体性</a> <a href="#guidance">指导与思考</a> <a href="#good-research">好研究</a> <a href="#depth">深度与创新</a> <a href="#failure">失败与学习</a> <a href="#outcomes">过程与结果</a> <a href="#ambition">不同的 ambition</a> <a href="#honesty">真诚</a> <a href="#respect">尊重与边界</a> <a href="#integrity">学术诚信</a> <a href="#memory">团队生长</a> <a href="#opportunity">机会与公平</a> <a href="#commitments">彼此的承诺</a> <a href="#closing">最后</a></p>
+</div>
+<section id="owl-lab-notebook" class="level1 page-title initial-accent notebook-body">
+<h1 class="page-title initial-accent">Owl Lab Notebook</h1>
+<p class="lede">
+关于我们如何独立思考，又是如何一起工作和成长的一份使用手册<br><span class="notebook-living">（持续更新中）</span>
+</p>
+<section id="preface" class="level2">
+<h2 class="anchored" data-anchor-id="preface">写在前面</h2>
+<p>这不是一份固定不变的组规，也不是一份要求所有人照着执行的行为手册。</p>
+<p>它更像是我在逐渐学习如何做研究、指导学生和建立团队的过程中，对一些基本问题的阶段性回答：我怎么看待学生，怎么看待科研，希望怎样与组里的同学相处，以及我们可以提前达成哪些共识。</p>
+<p>这些想法不会永远正确，会随着我的成长、学生的加入以及团队的变化继续修改。</p>
+<p>如果你正在考虑联系我，我希望你先认真读一读这里的内容。希望你提前了解我的指导方式和期待，并认真判断：这样的环境是否适合你，你是否愿意以这样的方式和我们一起工作。</p>
+</section>
+<section id="independent" class="level2">
+<h2 class="anchored" data-anchor-id="independent">01｜我们首先是独立的人</h2>
+<p><span class="expect">我希望</span>导师和学生首先是人格和思想上平等的独立个体。</p>
+<p>我能够指导你，是因为我暂时比你多一些研究经验，踩过更多坑，也形成了一些自己的判断。但经验既是优势，也可能成为限制视野的藩篱。学生新的问题、新的技术、新的兴趣和 fresh perspectives，同样可能扩展我的认知。</p>
+<p>因此，我<span class="boundary">不希望</span>形成「老板—执行者」的关系：你可以不同意我，可以质疑我的判断，也可以提出完全不同的解决方式。我们不需要通过服从来维持关系。</p>
+<p class="note-emphasis">
+我们追求的是：independent people doing serious work together.
+</p>
+</section>
+<section id="lightness" class="level2">
+<h2 class="anchored" data-anchor-id="lightness">02｜轻盈的是相处方式，可靠是做事的首要标准</h2>
+<p>我喜欢轻盈、直接、简单的人际关系。</p>
+<p>我<span class="boundary">不希望</span>因为「导师」「学生」这样的身份，把原本简单的事情变得沉重和复杂。组会应该尽量就事论事、解决问题、速战速决；没有必要为了开会而开会，也不需要表演式汇报。</p>
+<p>我不要求坐班。在哪里工作、几点工作，可以根据自己的节奏安排。我更关心的是事情有没有推进、承诺有没有回应、遇到问题有没有及时沟通。</p>
+<p><span class="expect">我希望</span>成员「可靠」，这意味着：答应的事情有回应，遇到变化及时说明，做过的工作有着落。</p>
+<p>轻盈的是相处方式，但认真、可靠和对承诺负责，是我们共同工作的首要标准。</p>
+</section>
+<section id="agency" class="level2">
+<h2 class="anchored" data-anchor-id="agency">03｜我希望你逐渐拥有自己的主体性</h2>
+<p>我并不期待一个刚加入团队的学生已经是一个非常会做研究的熟练工。</p>
+<p>科研经历是加分项，但比起已经掌握多少技术，我更看重基本的好奇心、礼貌、责任感、成长心态，以及愿不愿意主动学习。</p>
+<p>我希望一个人在组里的成长，大致经历这样的过程：</p>
+<p class="growth-sequence">
+可靠地完成任务 → 能够自己提出不同的解决方案 → 能够把一个模糊的现象逐渐转化成清楚的问题 → 最后能提出假设、拆解问题、寻找数据和证据、判断自己的结论，并清楚地向别人介绍自己的研究。
+</p>
+<p>我希望你离开团队的时候，知道怎样拆解一个没有标准答案的问题，并尝试给出你自己的答案。</p>
+</section>
+<section id="guidance" class="level2">
+<h2 class="anchored" data-anchor-id="guidance">04｜指导不是替你思考</h2>
+<p>我会尽量采取有限度的干预。刚开始的时候，我可能会给你更多方法、文献和具体建议；随着能力增长，我会越来越多地问为什么：还有没有另一种解释？什么证据可以支持这个判断？什么结果会让你改变想法？</p>
+<p>在你遇到困难的时候，欢迎你主动来找我沟通，但我希望你已经先思考和拆解过。相比一句「老师，我不知道怎么办」，我更希望听到：「我现在想到了 A、B、C 三种方案，各自的问题是……我目前倾向于 B，但这里卡住了，希望和您讨论。」</p>
+<p>我很乐于为你提供帮助和反馈，但我不会替你完成本应属于你的思考。</p>
+</section>
+<section id="good-research" class="level2">
+<h2 class="anchored" data-anchor-id="good-research">05｜好研究可以很小，但不能虚</h2>
+<p>我不认为每一项研究都需要宏大。在我们所在的城市、建筑与环境研究领域，很少有一篇文章或一个项目能够直接改变一个城市。很多时候，我们只能让某个问题比原来清楚一点。</p>
+<p>好的研究可能来自：</p>
+<ul>
+<li>一个更值得问的问题；</li>
+<li>一个不同的观察视角；</li>
+<li>一种新的数据或方法；</li>
+<li>把其他学科的方法带进来解决旧问题；</li>
+<li>发现某种已有方法的适用条件；</li>
+<li>或者证明一个原本被认为普遍成立的关系，其实存在边界。</li>
+</ul>
+</section>
+<section id="depth" class="level2">
+<h2 class="anchored" data-anchor-id="depth">06｜不要急着创新，先学会把问题做深</h2>
+<p>日光之下无新事。一个已经有大量研究积累的领域，如果一个初学者非常轻易地发现了一颗所有前人都没有摘过的李子，我们首先应该想一想：它为什么一直留在那里？</p>
+<p>科研需要一点 epistemic humility：先知道别人做过什么，再理解他们为什么这样做，然后慢慢看到哪些地方还没有被说清楚。</p>
+<p>绝大多数研究创新不是突然发现一大片无人区，而是在足够深入以后，看到已有知识之间留下的一条小缝，然后认真把它向前推进一点。</p>
+<p class="note-emphasis">
+Depth precedes novelty.
+</p>
+</section>
+<section id="failure" class="level2">
+<h2 class="anchored" data-anchor-id="failure">07｜请允许失败，同时从失败中学习</h2>
+<p>失败的实验、被推翻的假设、跑不通的方法和错误判断，都是科研的一部分。很少有人能沿着正确道路一直走下去。目标往往也是在探索过程中逐渐修正的。</p>
+<p>失败本身不是问题，真正需要问的是：</p>
+<ul>
+<li>我们从这次失败中知道了什么？</li>
+<li>是问题错了，方法错了，数据不够，还是实施出了问题？</li>
+<li>有没有排除一些可能性？</li>
+<li>接下来应该继续、调整，还是停止？</li>
+</ul>
+<p>「永远正确」是一个伪命题，导师同样会犯错。如果我的判断错了，我会承认，并和你一起寻找调整方案。</p>
+<p>我希望团队既传承成功经验，也传承「失败地图」，让后来的人不需要从同样的起点重新踩一次坑。</p>
+</section>
+<section id="outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="outcomes">08｜我们奔着结果做事，但结果不是唯一</h2>
+<p>我希望大家尽量把投入过的时间固化成一个可以被看见的成果。</p>
+<p>对于很多研究而言，小论文是最自然的一种 closure。它意味着一项工作不仅停留在自己的电脑或者毕业论文里，而是进入一个可以被别人阅读、评价、引用和继续讨论的公共知识体系。</p>
+<p>因此，我通常会鼓励学生：先尝试把一个相对完整的问题形成小论文，再逐渐扩展到更大的毕业论文或后续研究。</p>
+<p>发表不是科研的最终目的，但它是一个重要 milestone。</p>
+</section>
+<section id="ambition" class="level2">
+<h2 class="anchored" data-anchor-id="ambition">09｜允许不同的 ambition</h2>
+<p>每个人都有各自的人生阶段，因此也对应着不同的培养目标。</p>
+<div class="stage-list">
+<p><strong>本科阶段</strong></p>
+<p>我更看重基本研究能力和兴趣的形成。科研对本科生仍然是一项额外探索。</p>
+<p><strong>硕士阶段</strong></p>
+<p>研究已经成为培养的重要组成部分。我希望尽量完整经历一次 research cycle，并把工作形成一个能够保留下来的成果。</p>
+<p><strong>博士阶段</strong></p>
+<p>科研应该真正成为主业，也应该逐渐形成自己的研究问题和学术判断。</p>
+</div>
+</section>
+<section id="honesty" class="level2">
+<h2 class="anchored" data-anchor-id="honesty">10｜真诚永远最为重要</h2>
+<p>科研合作里存在分歧，也可以有情绪，我希望它们最终都可以成为被讨论的问题。</p>
+<p>你可以坦然告诉我：</p>
+<ul>
+<li>你不同意我的建议；</li>
+<li>任务安排超出了你的预期；</li>
+<li>你对署名有疑问；</li>
+<li>你想调整方向；</li>
+<li>你最近状态不好；</li>
+<li>甚至你觉得我最近的指导不够。</li>
+</ul>
+</section>
+<section id="respect" class="level2">
+<h2 class="anchored" data-anchor-id="respect">11｜尊重别人的时间、劳动和边界</h2>
+<p>我理解的尊重包括：</p>
+<ul>
+<li>对会议有所准备；</li>
+<li>不能完成承诺时提前说明；</li>
+<li>不让合作伙伴无意义地等待；</li>
+<li>承认别人对工作的贡献；</li>
+<li>不随意干涉别人的课题和选择；</li>
+<li>不因为身份不同而区别对待人。</li>
+</ul>
+<p>我希望你：遇到困难尽早说，无法按计划完成时及时调整，对共同的时间和承诺保持意识。没有进展可以讨论，不会做也可以学习；只要信息是流动的，很多问题都可以一起解决。</p>
+</section>
+<section id="integrity" class="level2">
+<h2 class="anchored" data-anchor-id="integrity">12｜学术诚信是不可跨越的底线</h2>
+<p>我可以接受失败，可以接受研究没有显著结果，可以接受代码写错，也可以接受一个方向最终没有文章，但<span class="boundary">不能接受</span>为了得到想要的结果而失去 intellectual honesty，包括但不限于：</p>
+<ul>
+<li>抄袭；</li>
+<li>捏造或篡改数据；</li>
+<li>隐瞒影响结论的重要问题；</li>
+<li>自己无法解释的方法却直接使用；</li>
+<li>没有核验 AI 生成的内容就把它作为自己的研究成果；</li>
+<li>未经沟通占有共同数据、idea 或成果。</li>
+</ul>
+</section>
+<section id="memory" class="level2">
+<h2 class="anchored" data-anchor-id="memory">13｜团队应该从每一个人身上生长出来</h2>
+<p>我希望随着时间推移，我们不再只是「导师分别指导几个学生」，而逐渐形成真正的团队。</p>
+<p>一个人学会了实测、模拟、GIS、Python、点云、AI 或其他方法以后，可以成为师弟师妹的起点，后来的人应该站在前面人的积累上继续前进，而不是重新从零开始。</p>
+<p>代码、protocol、经过验证且整理过的数据、数据说明、失败经验、分析流程，以及「哪些方法我们已经尝试过但不适合」的判断，都应该尽量留下来。</p>
+<p>我希望每一个 Owl Lab 的成员都拥有这个共识，并且一起创造一个越来越高的起点。</p>
+</section>
+<section id="opportunity" class="level2">
+<h2 class="anchored" data-anchor-id="opportunity">14｜机会是公开的，公平 ≠ 平均</h2>
+<p>我不认为绝对公平真实存在。项目、会议、合作、访学和其他机会天然存在差异，学生的兴趣、准备程度和发展阶段也不一样。</p>
+<p>我能做的是：</p>
+<ul>
+<li>尽量让相关信息公开流通；</li>
+<li>允许大家表达兴趣和选择；</li>
+<li>根据匹配程度、准备情况、贡献和培养价值进行判断；</li>
+<li>对于重要决定，尽量解释为什么这样安排。</li>
+</ul>
+<p>同时，我希望个人获得的资源，最终有一部分重新进入团队公共知识：</p>
+<ul>
+<li>参加会议的人可以回来分享；</li>
+<li>学会新方法的人可以留下 tutorial；</li>
+<li>踩过坑的人可以告诉后来者哪里容易出问题。</li>
+</ul>
+<p>这样一个人的成长，才能逐渐变成整个团队的成长。</p>
+</section>
+<section id="commitments" class="level2">
+<h2 class="anchored" data-anchor-id="commitments">我可以承诺什么</h2>
+<div class="expectation-pair">
+<section id="你可以期待我" class="level3 expectation-panel">
+<h3 class="anchored" data-anchor-id="你可以期待我"><span class="expect">你可以期待我</span></h3>
+<ul>
+<li>认真对待你的研究和问题；</li>
+<li>尽可能提供我能够提供的资源、经验和判断；</li>
+<li>帮助你判断研究风险，并在必要时寻找 backup；</li>
+<li>尊重你的个人选择和职业规划；</li>
+<li>尽量公平地讨论贡献和署名；</li>
+<li>承认自己的错误；</li>
+<li>在出现问题的时候尽量保持情绪稳定，就事论事；</li>
+<li>不通过羞辱或者身份压力推动工作；</li>
+<li>在你逐渐成长以后，允许你走向和我不同、甚至我并不擅长的方向。</li>
+</ul>
+</section>
+<section id="你不应该期待我" class="level3 expectation-panel boundary-panel">
+<h3 class="anchored" data-anchor-id="你不应该期待我"><span class="boundary">你不应该期待我</span></h3>
+<ul>
+<li>为你的情绪负全责；</li>
+<li>随时围着你的项目转；</li>
+<li>直接给出所有问题的答案；</li>
+<li>替你完成本应属于你的工作；</li>
+<li>替你决定人生应该怎么走；</li>
+<li>替你承担你自己选择所带来的全部后果。</li>
+</ul>
+</section>
+</div>
+</section>
+<section id="我对你的期待" class="level2">
+<h2 class="anchored" data-anchor-id="我对你的期待">我对你的期待</h2>
+<section id="我希望你" class="level3">
+<h3 class="anchored" data-anchor-id="我希望你"><span class="expect">我希望你</span></h3>
+<ul>
+<li>保持基本的好奇心；</li>
+<li>学会为自己的研究承担 ownership；</li>
+<li>遇到困难时主动沟通；</li>
+<li>尊重别人的时间、劳动和边界；</li>
+<li>允许自己不会，也允许自己犯错；</li>
+<li><span class="boundary">不要</span>停止思考；</li>
+<li><span class="boundary">不要</span>用「努力」替代学习；</li>
+<li>不要用结果掩盖问题；</li>
+<li>勇于承担属于自己的责任；</li>
+<li>在接受团队积累的同时，也尽量为后来者留下些什么。</li>
+</ul>
+</section>
+</section>
+<section id="closing" class="level2">
+<h2 class="anchored" data-anchor-id="closing">最后</h2>
+<p>这份 Notebook 会随着团队和我的成长持续更新。</p>
+<p>如果你看完以后有所触动，也认同这样的研究和相处方式，并希望进一步了解我们，可以继续阅读 <a href="../join/index.html" class="text-link">Join Us →</a></p>
+</section>
+</section>
+</div>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "已复制");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "已复制");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/oneluna\.github\.io\/owl-lab\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><span class="footer-brand">Owl Lab</span><br>南京大学建筑与城市规划学院<br><span class="footer-secondary">School of Architecture and Urban Planning, Nanjing University</span></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>欧阳婉璐 / Wanlu Ouyang<br><a href="mailto:wanlu.oy@nju.edu.cn">wanlu.oy@nju.edu.cn</a><br><a href="https://scholar.google.com/citations?user=BikRr74AAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Wanlu-Ouyang">ResearchGate</a> · <a class="footer-about" href="#">About</a></p>
+</div>
+  </div>
+</footer>
+<script>
+(() => {
+  const switcher = document.querySelector('.navbar-nav.ms-auto a.nav-link');
+  if (!switcher) return;
+  const current = new URL(window.location.href);
+  const isEnglish = current.pathname.includes('/en/');
+  const brand = document.querySelector('.navbar-brand');
+  const labels = {};
+  let siteRoot = '/';
+  if (isEnglish) {
+    const root = current.pathname.split('/en/')[0] + '/';
+    siteRoot = root;
+    switcher.textContent = '中文';
+    switcher.href = current.pathname.replace('/en', '') || root;
+    if (brand) brand.href = `${root}en/`;
+    document.querySelectorAll('.navbar a.nav-link').forEach((link) => {
+      const label = link.textContent.trim();
+      if (labels[label]) link.textContent = labels[label];
+      if (link === switcher) return;
+      const url = new URL(link.href, current);
+      if (!url.pathname.includes('/en/')) {
+        const local = url.pathname.startsWith(root) ? url.pathname.slice(root.length) : '';
+        link.href = `${root}en/${local}`;
+      }
+    });
+    const footerLeft = document.querySelector('.nav-footer-left');
+    const footerRight = document.querySelector('.nav-footer-right');
+    if (footerLeft) footerLeft.innerHTML = '<span class="footer-brand">Owl Lab</span><br>School of Architecture and Urban Planning, Nanjing University<br><span class="footer-secondary">南京大学建筑与城市规划学院</span>';
+    if (footerRight) footerRight.innerHTML = 'Wanlu Ouyang / 欧阳婉璐<br><a href="mailto:wanlu.oy@nju.edu.cn">wanlu.oy@nju.edu.cn</a><br><a href="https://scholar.google.com/citations?user=BikRr74AAAAJ&hl=en">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Wanlu-Ouyang">ResearchGate</a> · <a class="footer-about" href="#">About</a>';
+  } else {
+    const target = new URL(switcher.href, current);
+    const markerAt = target.pathname.indexOf('/en/');
+    const root = markerAt >= 0 ? target.pathname.slice(0, markerAt + 1) : '/';
+    siteRoot = root;
+    const local = current.pathname.startsWith(root) ? current.pathname.slice(root.length) : '';
+    switcher.textContent = 'EN';
+    switcher.href = `${root}en/${local}`;
+    if (brand) brand.href = root;
+  }
+  const aboutLink = document.querySelector('.footer-about');
+  if (aboutLink) aboutLink.href = isEnglish ? `${siteRoot}en/about/` : `${siteRoot}about/`;
+  const mobileSwitch = switcher.cloneNode(true);
+  mobileSwitch.classList.add('language-mobile');
+  mobileSwitch.removeAttribute('aria-current');
+  document.querySelector('.navbar-container')?.appendChild(mobileSwitch);
+})();
+</script>
+
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
