@@ -1,0 +1,149 @@
+---
+title: "Research"
+lang: zh
+description: "Owl Lab 研究框架与代表性发表成果"
+---
+
+::: {.page-intro}
+# Research {.page-title .initial-accent}
+<p class="lede">从空间出发，追踪环境过程，连接人与环境，并将认识带回设计。</p>
+:::
+
+::: {.editorial-section}
+::: {.section-head}
+<span class="section-number">Framework</span>
+
+## 概念框架
+:::
+
+<figure class="research-framework-figure">
+  <img src="../assets/research/owl-lab-research-structure.png" alt="Owl Lab research structure: climate-responsive built environment connecting urban space and environmental processes, human–environment interaction, and environmental sensing, modelling and computation across multiple scales." loading="lazy">
+</figure>
+:::
+
+::: {.editorial-section}
+::: {.section-head}
+<span class="section-number">1 + 3</span>
+
+## 研究线索
+:::
+
+::: {.research-index .research-index-three}
+::: {.project-row .thread-violet}
+<div><span class="project-kicker">01 · 空间与过程</span></div>
+::: {}
+### [城市空间与环境过程](space-process/)
+Urban Space &amp; Environmental Processes
+
+<p>空间条件与空间干预如何产生环境效应？这些效应又如何随时间、尺度与气候条件发生变化？</p>
+:::
+:::
+::: {.project-row .thread-clay}
+<div><span class="project-kicker">02 · 人与环境</span></div>
+::: {}
+### [人与环境交互](human-environment/)
+Human–Environment Interaction
+
+<p>环境条件如何转化为人的暴露、感知、行为与健康，并进一步影响空间设计？</p>
+:::
+:::
+::: {.project-row .thread-blue-grey}
+<div><span class="project-kicker">03 · 方法与计算</span></div>
+::: {}
+### [环境感知、建模与计算](sensing-modelling/)
+Environmental Sensing, Modelling &amp; Computation
+
+<p>如何更准确、高效地感知、量化和模拟城市环境过程？</p>
+:::
+:::
+:::
+:::
+
+::: {.editorial-section .funded-projects}
+::: {.section-head}
+<span class="section-number">Funded</span>
+
+## Funded Projects {.initial-accent}
+:::
+
+::: {.funded-project-group}
+### Projects led by Owl Lab
+
+::: {.funded-project .funded-project-led .thread-violet}
+<div class="funded-project-meta"><span>2027–2029</span><span>国家自然科学基金青年项目 · PI</span></div>
+<h3>面向适老步行的城市新区街道动态热暴露机制与空间优化研究——以夏热冬冷地区为例</h3>
+<p>面向夏热冬冷地区适老步行场景，研究城市新区街道中的动态热暴露机制，并探索支持街道空间优化的设计路径。</p>
+<div class="funded-project-tags"><span>人与环境交互</span><span>城市空间与环境过程</span></div>
+:::
+
+::: {.funded-project .funded-project-led .thread-sage}
+<div class="funded-project-meta"><span>2026–2028</span><span>江苏省自然科学基金青年项目 · PI</span></div>
+<h3>城市街区更新中精准增绿的热环境提升边界与空间配置方法研究</h3>
+<p>围绕城市街区更新中的精准增绿，研究热环境提升边界与空间配置方法，为更新中的增绿决策提供依据。</p>
+<div class="funded-project-tags"><span>城市空间与环境过程</span></div>
+:::
+
+::: {.funded-project .funded-project-led .thread-blue-grey}
+<div class="funded-project-meta"><span>2025–2027</span><span>教育部高密度人居环境生态与节能实验室开放课题 · PI</span></div>
+<h3>基于可解释人工智能（XAI）的城市蓝绿空间降温效应动态机制与优化研究</h3>
+<p>关注城市蓝绿空间降温效应的动态机制与优化问题，探索可解释人工智能支持下的空间配置研究路径。</p>
+<div class="funded-project-tags"><span>城市空间与环境过程</span><span>环境感知、建模与计算</span></div>
+:::
+
+::: {.funded-project .funded-project-led .thread-blue-grey}
+<div class="funded-project-meta"><span>2025–2026</span><span>自然资源部国土空间规划监测评估预警重点实验室开放基金课题 · PI</span></div>
+<h3>面向热韧性提升的城市更新蓝绿空间智能布局及优化方法研究</h3>
+<p>面向热韧性提升，研究城市更新中蓝绿空间的智能布局与优化方法，为热韧性导向的空间更新提供支持。</p>
+<div class="funded-project-tags"><span>城市空间与环境过程</span><span>环境感知、建模与计算</span></div>
+:::
+:::
+:::
+
+::: {.editorial-section .selected-publications}
+::: {.section-head}
+<span class="section-number">Selected</span>
+
+## Selected Publications {.initial-accent}
+:::
+
+::: {.publication-groups}
+::: {.publication-group .thread-violet}
+### 01 Urban Space &amp; Environmental Processes
+<p class="publication-title-zh">城市空间与环境过程</p>
+
+::: {.publication-entry}
+<span>2020</span><div><h4>The cooling efficiency of variable greenery coverage ratios in different urban densities: A study in a subtropical climate.</h4><p>Ouyang, W., Morakinyo, T. E., Ren, C., &amp; Ng, E. <em>Building and Environment</em>, 174, 106772.</p><div class="publication-description"><strong class="publication-microhead">绿量 × 城市密度：降温效率如何变化？</strong><span class="publication-explanation">比较不同绿化覆盖率与城市密度组合下的冷却表现，理解空间背景如何影响绿化的环境效应。</span></div><a href="https://doi.org/10.1016/j.buildenv.2020.106772">DOI / View paper →</a></div>
+:::
+::: {.publication-entry}
+<span>2023</span><div><h4>How to quantify the cooling effects of green infrastructure strategies from a spatio-temporal perspective: Experience from a parametric study.</h4><p>Ouyang, W., Morakinyo, T. E., Lee, Y., Tan, Z., Ren, C., &amp; Ng, E. <em>Landscape and Urban Planning</em>, 237, 104808.</p><div class="publication-description"><strong class="publication-microhead">多维度量化降温效果。</strong><span class="publication-explanation">从时空视角量化不同绿化策略的冷却表现，进一步理解环境效应如何在空间与时间中变化。</span></div><a href="https://doi.org/10.1016/j.landurbplan.2023.104808">DOI / View paper →</a></div>
+:::
+::: {.publication-entry}
+<span>2025</span><div><h4>The dual impacts of built environment on extreme heat and urban heat resilience: A comparative study in Beijing.</h4><p>Liu, Q., Ouyang, W., Tan, Z., Mei, Y., &amp; Bai, B. <em>Urban Climate</em>, 64, 102618.</p><div class="publication-description"><strong class="publication-microhead">空间如何同时塑造极端热与热韧性？</strong><span class="publication-explanation">从极端热事件出发，考察建成环境属性与热暴露水平及城市热韧性之间的关系。</span></div><a href="https://doi.org/10.1016/j.uclim.2025.102618">DOI / View paper →</a></div>
+:::
+:::
+
+::: {.publication-group .thread-clay}
+### 02 Human–Environment Interaction
+<p class="publication-title-zh">人与环境交互</p>
+
+::: {.publication-entry}
+<span>2025</span><div><h4>Comparative evaluation of PET and mPET models for outdoor walking in hot-humid climates.</h4><p>Ouyang, W., Tan, Z., Chen, Y.-C., &amp; Ren, G. <em>Building and Environment</em>, 271, 112636.</p><div class="publication-description"><strong class="publication-microhead">走起来以后，热舒适指标还可靠吗？</strong><span class="publication-explanation">比较 PET 与 mPET 在湿热气候户外步行条件下的适用表现，将热环境评价进一步带入真实的移动过程。</span></div><a href="https://doi.org/10.1016/j.buildenv.2025.112636">DOI / View paper →</a></div>
+:::
+::: {.publication-entry}
+<span>2025</span><div><h4>The comparative thermal experience of young and old pedestrians in urban green spaces and in densely built areas.</h4><p>Tan, Z., Christopoulos, G., Roberts, A. C., Ren, G., Ouyang, W., Lo, K., &amp; Ho, C. <em>Urban Forestry &amp; Urban Greening</em>, 105, 128712.</p><div class="publication-description"><strong class="publication-microhead">同一座城市，不同年龄，会有不同的热体验吗？</strong><span class="publication-explanation">比较年轻与老年行人在城市绿地和高密建成环境中的热体验，关注人群差异与空间情境的共同作用。</span></div><a href="https://doi.org/10.1016/j.ufug.2025.128712">DOI / View paper →</a></div>
+:::
+:::
+
+::: {.publication-group .thread-blue-grey}
+### 03 Environmental Sensing, Modelling &amp; Computation
+<p class="publication-title-zh">环境感知、建模与计算</p>
+
+::: {.publication-entry}
+<span>2021</span><div><h4>Evaluating the thermal-radiative performance of ENVI-met model for green infrastructure typologies: Experience from a subtropical climate.</h4><p>Ouyang, W., Sinsel, T., Simon, H., Morakinyo, T. E., Liu, H., &amp; Ng, E. <em>Building and Environment</em>, 108427.</p><div class="publication-description"><strong class="publication-microhead">模型能否看准绿化空间中的热辐射？</strong><span class="publication-explanation">通过不同绿化类型的实测与模拟比较，验证 ENVI-met 对热—辐射环境的模拟表现及适用性。</span></div><a href="https://doi.org/10.1016/j.buildenv.2021.108427">DOI / View paper →</a></div>
+:::
+::: {.publication-entry}
+<span>2022</span><div><h4>Comparing Different Recalibrated Methods for Estimating Mean Radiant Temperature in Outdoor Environment.</h4><p>Ouyang, W., Liu, Z., Lau, K., Shi, Y., &amp; Ng, E. <em>Building and Environment</em>, 109004.</p><div class="publication-description"><strong class="publication-microhead">MRT 怎么算得更准？</strong><span class="publication-explanation">比较不同再校准方法对户外平均辐射温度估算的改进效果，寻找更适合实际环境测量的量化方式。</span></div><a href="https://doi.org/10.1016/j.buildenv.2022.109004">DOI / View paper →</a></div>
+:::
+:::
+:::
+:::

@@ -1,0 +1,116 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research/index.qmd
+    - research/space-process/index.qmd
+    - research/human-environment/index.qmd
+    - research/sensing-modelling/index.qmd
+    - people.qmd
+    - notebook/index.qmd
+    - news.qmd
+    - about/index.qmd
+    - join/index.qmd
+    - en/index.qmd
+    - en/research/index.qmd
+    - en/research/space-process/index.qmd
+    - en/research/human-environment/index.qmd
+    - en/research/sensing-modelling/index.qmd
+    - en/people.qmd
+    - en/notebook/index.qmd
+    - en/news.qmd
+    - en/about/index.qmd
+    - en/join/index.qmd
+  resources:
+    - assets/**
+
+website:
+  title: "Owl Lab"
+  description: "气候 · 空间 · 人"
+  site-url: "https://oneluna.github.io/owl-lab/"
+  favicon: assets/favicon.svg
+  search: false
+  navbar:
+    pinned: true
+    logo: assets/brand/logo-mini.png
+    logo-alt: "Owl Lab logo"
+    left:
+      - text: Research
+        href: research/index.qmd
+      - text: People
+        href: people.qmd
+      - text: Notebook
+        href: notebook/index.qmd
+      - text: News
+        href: news.qmd
+      - text: About
+        href: about/index.qmd
+    right:
+      - text: EN
+        href: en/index.qmd
+  page-footer:
+    left: "<span class='footer-brand'>Owl Lab</span><br>南京大学建筑与城市规划学院<br><span class='footer-secondary'>School of Architecture and Urban Planning, Nanjing University</span>"
+    right: "欧阳婉璐 / Wanlu Ouyang<br><a href='mailto:wanlu.oy@nju.edu.cn'>wanlu.oy@nju.edu.cn</a><br><a href='https://scholar.google.com/citations?user=BikRr74AAAAJ&hl=en'>Google Scholar</a> · <a href='https://www.researchgate.net/profile/Wanlu-Ouyang'>ResearchGate</a> · <a class='footer-about' href='#'>About</a>"
+
+format:
+  html:
+    theme: styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      - text: |
+          <meta name="theme-color" content="#f6f5f1">
+    include-after-body:
+      - text: |
+          <script>
+          (() => {
+            const switcher = document.querySelector('.navbar-nav.ms-auto a.nav-link');
+            if (!switcher) return;
+            const current = new URL(window.location.href);
+            const isEnglish = current.pathname.includes('/en/');
+            const brand = document.querySelector('.navbar-brand');
+            const labels = {};
+            let siteRoot = '/';
+            if (isEnglish) {
+              const root = current.pathname.split('/en/')[0] + '/';
+              siteRoot = root;
+              switcher.textContent = '中文';
+              switcher.href = current.pathname.replace('/en', '') || root;
+              if (brand) brand.href = `${root}en/`;
+              document.querySelectorAll('.navbar a.nav-link').forEach((link) => {
+                const label = link.textContent.trim();
+                if (labels[label]) link.textContent = labels[label];
+                if (link === switcher) return;
+                const url = new URL(link.href, current);
+                if (!url.pathname.includes('/en/')) {
+                  const local = url.pathname.startsWith(root) ? url.pathname.slice(root.length) : '';
+                  link.href = `${root}en/${local}`;
+                }
+              });
+              const footerLeft = document.querySelector('.nav-footer-left');
+              const footerRight = document.querySelector('.nav-footer-right');
+              if (footerLeft) footerLeft.innerHTML = '<span class="footer-brand">Owl Lab</span><br>School of Architecture and Urban Planning, Nanjing University<br><span class="footer-secondary">南京大学建筑与城市规划学院</span>';
+              if (footerRight) footerRight.innerHTML = 'Wanlu Ouyang / 欧阳婉璐<br><a href="mailto:wanlu.oy@nju.edu.cn">wanlu.oy@nju.edu.cn</a><br><a href="https://scholar.google.com/citations?user=BikRr74AAAAJ&hl=en">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Wanlu-Ouyang">ResearchGate</a> · <a class="footer-about" href="#">About</a>';
+            } else {
+              const target = new URL(switcher.href, current);
+              const markerAt = target.pathname.indexOf('/en/');
+              const root = markerAt >= 0 ? target.pathname.slice(0, markerAt + 1) : '/';
+              siteRoot = root;
+              const local = current.pathname.startsWith(root) ? current.pathname.slice(root.length) : '';
+              switcher.textContent = 'EN';
+              switcher.href = `${root}en/${local}`;
+              if (brand) brand.href = root;
+            }
+            const aboutLink = document.querySelector('.footer-about');
+            if (aboutLink) aboutLink.href = isEnglish ? `${siteRoot}en/about/` : `${siteRoot}about/`;
+            const mobileSwitch = switcher.cloneNode(true);
+            mobileSwitch.classList.add('language-mobile');
+            mobileSwitch.removeAttribute('aria-current');
+            document.querySelector('.navbar-container')?.appendChild(mobileSwitch);
+          })();
+          </script>
+
+execute:
+  freeze: auto

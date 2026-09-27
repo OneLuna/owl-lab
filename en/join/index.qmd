@@ -1,0 +1,55 @@
+---
+title: "Join Us"
+lang: en
+description: "A concise guide to contacting Owl Lab"
+---
+
+::: {.page-intro .join-intro}
+# Join Us {.page-title .initial-accent}
+
+<p class="lede">Before contacting Owl Lab, take some time to understand our research and how we work together.</p>
+:::
+
+::: {.join-framework aria-label="Read, Think, Explain"}
+<span>Read</span><i aria-hidden="true">·</i><span>Think</span><i aria-hidden="true">·</i><span>Explain</span>
+:::
+
+::: {.join-step}
+<div class="join-step-label"><span>01</span><h2>Read</h2></div>
+
+::: {.join-step-body}
+Begin with [Research](../research/index.qmd) to understand the questions we study, and [Notebook](../notebook/index.qmd) to understand how we think, work, and grow together.
+
+[Recommended reading on writing an introductory email →](https://mp.weixin.qq.com/s/5szgWF5BjklLJZ043u1tlQ){.text-link target="_blank" rel="noopener"}
+:::
+:::
+
+::: {.join-step}
+<div class="join-step-label"><span>02</span><h2>Think</h2></div>
+
+::: {.join-step-body}
+Consider why Owl Lab specifically interests you, what you have actually done and learned, and which questions you genuinely want to understand next.
+
+::: {.later-stage-note}
+A research proposal is not required for the initial email. If both sides wish to continue the conversation, you may later be invited to read relevant literature, develop the question, and prepare a formal proposal.
+:::
+:::
+:::
+
+::: {.join-step}
+<div class="join-step-label"><span>03</span><h2>Explain</h2></div>
+
+::: {.join-step-body}
+Write a concise, specific email that explains who you are, why you are contacting Owl Lab, what you have done, what currently interests you, and one point in the Notebook that you agree with, question, or disagree with—and why.
+:::
+:::
+
+::: {.join-contact}
+<span class="meta">Contact</span>
+
+## [wanlu.oy@nju.edu.cn](mailto:wanlu.oy@nju.edu.cn)
+
+Suggested subject: <span class="email-subject">[Owl Lab Application] Name – Institution – Application type</span>
+
+You may attach a CV, transcript, and a small number of representative materials when relevant.
+:::

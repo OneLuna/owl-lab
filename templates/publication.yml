@@ -1,0 +1,9 @@
+- year: 20XX
+  title: "Publication title"
+  title_zh: "中文标题或编辑性译名"
+  authors: "Verified author list"
+  venue: "Journal or outlet"
+  doi: "https://doi.org/..."
+  project_ids: []
+  research_threads: ["climate-responsive | blue-green | human | computation"]
+  links: {paper: "", code: "", data: ""}

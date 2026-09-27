@@ -1,0 +1,7 @@
+- date: "YYYY-MM-DD"
+  title: "News title"
+  title_zh: "动态标题"
+  summary: "One or two factual sentences"
+  summary_zh: "一至两句事实性说明"
+  tags: []
+  image: ""

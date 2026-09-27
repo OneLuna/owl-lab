@@ -1,0 +1,33 @@
+---
+title: "Human–Environment Interaction"
+lang: en
+description: "Owl Lab research thread 02"
+---
+
+::: {.page-intro}
+# Human–Environment Interaction
+<p class="lede">How do environmental conditions become human exposure, perception, behavior and health, and how can this knowledge inform spatial design?</p>
+:::
+
+::: {.prose .research-thread-page}
+<p class="meta">02 · 人与环境交互</p>
+
+## From conditions to lived experience
+
+Human experience unfolds through real exposure and activity. This thread examines how microclimatic conditions shape individual exposure, thermal perception, behavioral choices and health outcomes, and how this evidence can support human-centered spatial interventions.
+
+## Conceptual scope
+
+<p class="research-progression">Exposure → Perception → Behavior → Health → Spatial response</p>
+
+## Selected published work
+
+::: {.thread-publications .thread-clay}
+<p><strong>Ouyang et al. (2025).</strong> Comparative evaluation of PET and mPET models for outdoor walking in hot-humid climates. <em>Building and Environment</em>, 271, 112636. <a href="https://doi.org/10.1016/j.buildenv.2025.112636">DOI →</a></p>
+<p><strong>Tan et al. (2025).</strong> The comparative thermal experience of young and old pedestrians in urban green spaces and in densely built areas. <em>Urban Forestry &amp; Urban Greening</em>, 105, 128712. <a href="https://doi.org/10.1016/j.ufug.2025.128712">DOI →</a></p>
+<p><strong>Foundational / collaborative contributions</strong></p>
+<ul><li>Schweiker et al. (2019). The Scales Project, a cross-national dataset on the interpretation of thermal perception scales. <em>Scientific Data</em>.</li><li>Schweiker et al. (2020). Evaluating assumptions of scales for subjective assessment of thermal environments. <em>Energy and Buildings</em>.</li></ul>
+:::
+
+[← Back to Research](../index.qmd){.text-link}
+:::

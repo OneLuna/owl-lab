@@ -1,0 +1,14 @@
+---
+title: "News"
+lang: en
+description: "Owl Lab news"
+---
+
+::: {.page-intro}
+# News {.page-title .initial-accent}
+<p class="lede">Short chronological notes on research, teaching, sharing, and the group as it develops.</p>
+:::
+
+::: {.prose}
+<p class="content-placeholder">No news has been added yet. Confirmed entries will appear in reverse chronological order with lightweight tags.</p>
+:::

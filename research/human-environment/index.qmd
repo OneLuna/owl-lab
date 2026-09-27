@@ -1,0 +1,33 @@
+---
+title: "人与环境交互"
+lang: zh
+description: "Owl Lab 研究线索 02"
+---
+
+::: {.page-intro}
+# 人与环境交互
+<p class="lede">环境条件如何转化为人的暴露、感知、行为与健康，并进一步影响空间设计？</p>
+:::
+
+::: {.prose .research-thread-page}
+<p class="meta">02 · Human–Environment Interaction</p>
+
+## 从环境条件到人的经验
+
+人的环境体验发生在真实的暴露与活动过程中。这一研究线关注微气候条件如何作用于个体暴露、热感知、行为选择与健康结果，并进一步探索这些证据如何支持更具人本尺度的空间干预。
+
+## 概念范围
+
+<p class="research-progression">Exposure → Perception → Behavior → Health → Spatial response</p>
+
+## Selected published work
+
+::: {.thread-publications .thread-clay}
+<p><strong>Ouyang et al. (2025).</strong> Comparative evaluation of PET and mPET models for outdoor walking in hot-humid climates. <em>Building and Environment</em>, 271, 112636. <a href="https://doi.org/10.1016/j.buildenv.2025.112636">DOI →</a></p>
+<p><strong>Tan et al. (2025).</strong> The comparative thermal experience of young and old pedestrians in urban green spaces and in densely built areas. <em>Urban Forestry &amp; Urban Greening</em>, 105, 128712. <a href="https://doi.org/10.1016/j.ufug.2025.128712">DOI →</a></p>
+<p><strong>Foundational / collaborative contributions</strong></p>
+<ul><li>Schweiker et al. (2019). The Scales Project, a cross-national dataset on the interpretation of thermal perception scales. <em>Scientific Data</em>.</li><li>Schweiker et al. (2020). Evaluating assumptions of scales for subjective assessment of thermal environments. <em>Energy and Buildings</em>.</li></ul>
+:::
+
+[← 返回 Research](../index.qmd){.text-link}
+:::

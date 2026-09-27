@@ -1,0 +1,97 @@
+---
+title: "Join Us"
+lang: zh
+description: "加入 Owl Lab 前的阅读、思考与联系建议"
+---
+
+::: {.page-intro .join-intro}
+# Join Us {.page-title .initial-accent}
+
+<p class="lede">如果你正在考虑加入 Owl Lab，在写邮件联系之前，先花一点时间了解我们。</p>
+:::
+
+::: {.join-framework aria-label="Read, Think, Explain"}
+<span>Read</span><i aria-hidden="true">·</i><span>Think</span><i aria-hidden="true">·</i><span>Explain</span>
+:::
+
+::: {.join-step}
+<div class="join-step-label"><span>01</span><h2>Read</h2></div>
+
+::: {.join-step-body}
+请先阅读并了解：
+
+::: {.join-reading}
+::: {}
+### [Research](../research/index.qmd)
+
+了解 Owl Lab 正在关注什么问题。
+:::
+
+::: {}
+### [Notebook](../notebook/index.qmd)
+
+了解我们如何独立思考，又如何一起工作和成长。
+:::
+:::
+
+[自荐信应该怎么写？申请前建议阅读 →](https://mp.weixin.qq.com/s/5szgWF5BjklLJZ043u1tlQ){.text-link target="_blank" rel="noopener"}
+:::
+:::
+
+::: {.join-step}
+<div class="join-step-label"><span>02</span><h2>Think</h2></div>
+
+::: {.join-step-body}
+请先想一想：
+
+### 为什么是 Owl Lab？
+
+是什么具体的问题、研究方向、项目或工作吸引了你？它与你过去的什么经历或现在的好奇心产生联系？
+
+### 你真正做过什么？
+
+你在一件事情里具体做了什么、遇到了什么问题、怎样处理，以及最后学到了什么。
+
+### 你现在对什么问题感到好奇？
+
+我希望知道，你现在有哪些真正想进一步理解的问题。
+
+::: {.later-stage-note}
+如果初次联系后，双方都有继续交流的意愿，我可能会请你进一步阅读文献、拆解问题，并形成一份正式的 research proposal。
+:::
+:::
+:::
+
+::: {.join-step}
+<div class="join-step-label"><span>03</span><h2>Explain</h2></div>
+
+::: {.join-step-body}
+请用一封尽量简洁、具体的邮件，把你的思考解释给我。
+
+邮件应当帮助我了解：
+
+- 你是谁；
+- 为什么联系 Owl Lab；
+- 你实际做了什么；
+- 你目前感兴趣的问题；
+- 读完 Owl Lab Notebook 后，最认同、最有疑问、最不同意的一点，以及为什么。
+:::
+:::
+
+::: {.join-contact}
+<span class="meta">Contact</span>
+
+## [wanlu.oy@nju.edu.cn](mailto:wanlu.oy@nju.edu.cn)
+
+**建议邮件主题**
+
+<p class="email-subject">[Owl Lab申请] 姓名－学校－申请类型</p>
+
+例如：<span class="email-subject">[Owl Lab申请] 张三－XX大学－2027推免硕士</span>
+
+申请人可以根据实际情况附上：
+
+- CV；
+- 成绩单；
+- 少量有代表性的相关材料。
+:::

@@ -1,0 +1,79 @@
+---
+title: "About Owl Lab"
+lang: zh
+description: "Owl Lab 关注气候、城市空间与人之间复杂而不断变化的关系。"
+---
+
+::: {.page-intro .about-intro}
+::: {.about-hero-copy}
+# About Owl Lab {.initial-accent}
+
+<p class="lede"><strong>Owl Lab 关注气候、城市空间与人之间复杂而不断变化的关系。</strong></p>
+
+<p class="about-hero-summary">我们以城市气候与建成环境为基础，研究空间如何调节环境过程，这些变化如何进一步影响人的暴露、感知与行为，以及这些认识如何反馈到气候响应型的设计与规划。</p>
+:::
+
+![](../assets/brand/owl-lab-logo.png){.about-hero-logo alt="Owl Lab 标志"}
+:::
+
+::: {.about-prose}
+我们的研究跨越不同尺度——从城市与街区，到公共空间与个体体验；也结合现场观测、遥感、数值模拟、空间分析与新兴计算方法。相比把某一种研究对象或技术作为边界，我们更关心一个问题是否值得追问，以及不同尺度和证据之间能否建立有意义的联系。
+:::
+
+::: {.editorial-section .why-owl}
+::: {.section-head}
+<span class="section-number">Owl</span>
+
+## Why Owl? {.initial-accent}
+:::
+
+Owl Lab 的名字最初来自于我的名字（Ouyang WL）。
+
+Owl 一直以来也是智慧的象征。随着团队逐渐形成，我们开始赋予这三个字母更丰富的含义：
+
+::: {.owl-groups}
+::: {.owl-group .owl-research}
+### How we research
+
+<p class="owl-line"><span class="owl-word"><span>O</span>bserve</span> · <span class="owl-word"><span>W</span>eigh</span> · <span class="owl-word"><span>L</span>ink</span></p>
+
+::: {.owl-terms}
+::: {}
+#### <span class="owl-word"><span>O</span>bserve</span>
+从真实世界出发，观察复杂而不断变化的城市环境过程。
+:::
+::: {}
+#### <span class="owl-word"><span>W</span>eigh</span>
+审视证据、比较不同解释，并认真面对不确定性与研究边界。
+:::
+::: {}
+#### <span class="owl-word"><span>L</span>ink</span>
+连接不同尺度、方法与经验，将气候、空间与人重新放在同一个问题中理解。
+:::
+:::
+:::
+
+::: {.owl-group .owl-grow}
+### How we grow
+
+<p class="owl-line"><span class="owl-word"><span>O</span>pen</span> · <span class="owl-word"><span>W</span>onder</span> · <span class="owl-word"><span>L</span>earn</span></p>
+
+::: {.owl-terms}
+::: {}
+#### <span class="owl-word"><span>O</span>pen</span>
+对不同观点、新问题和新的研究路径保持开放。
+:::
+::: {}
+#### <span class="owl-word"><span>W</span>onder</span>
+保留对世界的好奇，也保留继续提问的能力。
+:::
+::: {}
+#### <span class="owl-word"><span>L</span>earn</span>
+把研究看作持续学习、修正判断和共同成长的过程。
+:::
+:::
+:::
+:::
+
+<p class="about-closing">随着团队的成长，我们相信 Owl 会自然生发出不同的内涵，也期待每一个成员留下自己的解读。</p>
+:::

@@ -1,0 +1,101 @@
+---
+title: "Owl Lab"
+lang: zh
+description: "气候 · 空间 · 人"
+---
+
+::: {.hero .lab-hero}
+::: {}
+# Owl Lab
+
+<p class="identity-line">气候 · 空间 · 人</p>
+<p class="identity-line identity-line-en">Urban Climate · <span class="keep-together">Built Environment · People</span></p>
+
+<p class="hero-statement">我们试图拆解气候、城市空间与人之间复杂而不断变化的关系。</p>
+:::
+
+::: {.hero-note .academic-description}
+Owl Lab 关注气候变化背景下建成环境与城市环境过程的相互作用，研究其如何进一步塑造人的环境暴露、感知与行为，并探索这些认识如何转化为气候响应型的设计与规划策略。
+:::
+:::
+
+::: {.editorial-section}
+::: {.section-head}
+<span class="section-number">1 + 3</span>
+
+## Research {.initial-accent}
+:::
+
+::: {.research-matrix}
+::: {.research-umbrella}
+<span>Climate-responsive Built Environment</span>
+<strong>气候响应型建成环境</strong>
+:::
+::: {.research-tile .thread-violet}
+<span class="tile-number">01</span>
+
+### [城市空间与环境过程](research/space-process/)
+<p class="tile-en">Urban Space &amp; Environmental Processes</p>
+<p>空间条件与干预如何产生环境效应？</p>
+:::
+
+::: {.research-tile .thread-clay}
+<span class="tile-number">02</span>
+
+### [人与环境交互](research/human-environment/)
+<p class="tile-en">Human–Environment Interaction</p>
+<p>环境条件如何转化为人的真实体验与结果？</p>
+:::
+
+::: {.research-tile .thread-blue-grey}
+<span class="tile-number">03</span>
+
+### [环境感知、建模与计算](research/sensing-modelling/)
+<p class="tile-en">Environmental Sensing, Modelling &amp; Computation</p>
+<p>如何更准确、高效且适切地感知、量化和模拟？</p>
+:::
+:::
+:::
+
+::: {.editorial-section .notebook-gateway}
+::: {.section-head}
+<span class="section-number">Living guide</span>
+
+## Notebook {.initial-accent}
+:::
+
+<div class="notebook-quote"><p><span class="keep-together">对问题保持好奇，</span><br><span class="keep-together">对成长保持耐心，</span><br><span class="keep-together">对彼此保持真诚。</span></p><p>我们认真做研究，并轻盈相处。</p></div>
+
+[进入 Owl Lab Notebook →](notebook/index.qmd){.text-link}
+:::
+
+::: {.editorial-section .home-compact}
+::: {.section-head}
+<span class="section-number">Meet the group</span>
+
+## People {.initial-accent}
+:::
+::: {.project-row}
+<div><span class="meta">PI</span></div>
+::: {}
+### 欧阳婉璐 · Wanlu Ouyang
+南京大学建筑与城市规划学院  
+School of Architecture and Urban Planning, Nanjing University
+
+<span class="content-placeholder">在读学生信息待确认后加入。</span>
+
+[成员与加入方式 →](people.qmd){.text-link}
+:::
+:::
+:::
+
+::: {.editorial-section .home-compact}
+::: {.section-head}
+<span class="section-number">Recent</span>
+
+## News {.initial-accent}
+:::
+<span class="content-placeholder">暂无已确认的动态条目。</span>
+
+[更多动态 →](news.qmd){.text-link}
+:::

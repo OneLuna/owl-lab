@@ -1,0 +1,19 @@
+---
+title: "Owl Lab Notebook"
+lang: en
+description: "A living guide to how we think, work, and grow together."
+---
+
+::: {.notebook-layout}
+::: {.notebook-nav}
+<div class="meta">Owl Lab Notebook<br>v1.1<br><span class="notebook-date">September 2026 / 2026年9月</span></div>
+:::
+
+::: {.notebook-body}
+# Owl Lab Notebook {.page-title .initial-accent}
+
+<p class="lede">A living guide to how we think, work, and grow together.</p>
+
+If this way of thinking and working resonates with you, continue to [Join Us →](../join/index.qmd){.text-link}
+:::
+:::

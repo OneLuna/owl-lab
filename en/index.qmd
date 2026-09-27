@@ -1,0 +1,94 @@
+---
+title: "Owl Lab"
+lang: en
+description: "Urban Climate · Built Environment · People"
+---
+
+::: {.hero .lab-hero}
+::: {}
+# Owl Lab
+
+<p class="identity-line">Urban Climate · <span class="keep-together">Built Environment · People</span></p>
+<p class="identity-line identity-line-en">气候 · 空间 · 人</p>
+
+<p class="hero-statement">We try to disentangle the complex and continually changing relationships among climate, urban space, and people.</p>
+:::
+
+::: {.hero-note .academic-description}
+Owl Lab studies how built environments interact with urban environmental processes under climate change, how these relationships shape human exposure, perception, and behavior, and how such knowledge can inform climate-responsive design and planning.
+:::
+:::
+
+::: {.editorial-section}
+::: {.section-head}
+<span class="section-number">1 + 3</span>
+
+## Research {.initial-accent}
+:::
+
+::: {.research-matrix}
+::: {.research-umbrella}
+<span>气候响应型建成环境</span>
+<strong>Climate-responsive Built Environment</strong>
+:::
+::: {.research-tile .thread-violet}
+<span class="tile-number">01</span>
+
+### [Urban Space &amp; Environmental Processes](research/space-process/)
+<p class="tile-en">城市空间与环境过程</p>
+<p>How do spatial conditions and interventions produce environmental effects?</p>
+:::
+::: {.research-tile .thread-clay}
+<span class="tile-number">02</span>
+
+### [Human–Environment Interaction](research/human-environment/)
+<p class="tile-en">人与环境交互</p>
+<p>How do environmental conditions become lived experience and outcomes?</p>
+:::
+::: {.research-tile .thread-blue-grey}
+<span class="tile-number">03</span>
+
+### [Environmental Sensing, Modelling &amp; Computation](research/sensing-modelling/)
+<p class="tile-en">环境感知、建模与计算</p>
+<p>How can urban processes be sensed, quantified and modelled more appropriately?</p>
+:::
+:::
+:::
+
+::: {.editorial-section .notebook-gateway}
+::: {.section-head}
+<span class="section-number">Living guide</span>
+## Notebook {.initial-accent}
+:::
+<div class="notebook-quote"><p>Stay curious about questions,<br>patient with growth,<br>and honest with one another.</p><p>We take research seriously, and relate to one another with lightness.</p></div>
+[Enter the Owl Lab Notebook →](notebook/index.qmd){.text-link}
+:::
+
+::: {.editorial-section .home-compact}
+::: {.section-head}
+<span class="section-number">Meet the group</span>
+## People {.initial-accent}
+:::
+::: {.project-row}
+<div><span class="meta">PI</span></div>
+::: {}
+### Wanlu Ouyang · 欧阳婉璐
+School of Architecture and Urban Planning, Nanjing University  
+南京大学建筑与城市规划学院
+
+<span class="content-placeholder">Current students will be added when their information is confirmed.</span>
+
+[People and joining →](people.qmd){.text-link}
+:::
+:::
+:::
+
+::: {.editorial-section .home-compact}
+::: {.section-head}
+<span class="section-number">Recent</span>
+## News {.initial-accent}
+:::
+<span class="content-placeholder">No confirmed news entries yet.</span>
+
+[More news →](news.qmd){.text-link}
+:::

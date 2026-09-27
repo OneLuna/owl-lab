@@ -1,0 +1,108 @@
+---
+title: "People"
+lang: en
+description: "Owl Lab people and joining information"
+---
+
+::: {.page-intro .people-intro}
+# People {.page-title .initial-accent}
+<p class="lede">Owl Lab continues to grow. Here are the team members learning, researching, and working together.</p>
+:::
+
+::: {.people-section .pi-section}
+## PI
+
+::: {.pi-profile}
+![](../assets/people/wanlu-ouyang.jpg){.person-photo .pi-photo alt="Wanlu Ouyang / 欧阳婉璐"}
+
+::: {.person-details}
+### Wanlu Ouyang
+<p class="person-name-en">欧阳婉璐</p>
+
+School of Architecture and Urban Planning, Nanjing University  
+南京大学建筑与城市规划学院
+
+[wanlu.oy@nju.edu.cn](mailto:wanlu.oy@nju.edu.cn)  
+[Google Scholar](https://scholar.google.com/citations?user=BikRr74AAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Wanlu-Ouyang)
+:::
+:::
+:::
+
+::: {.people-section}
+## Graduate Researchers
+
+::: {.graduate-profile .student-profile}
+![](../assets/people/li-yuting.jpeg){.person-photo .student-photo alt="李雨婷"}
+
+::: {.person-details}
+### 李雨婷
+<p class="student-meta">Professional master’s student · 2024–present</p>
+<p>Studies urban tree morphology, microclimate and human thermal comfort, with attention to how canopy form and density shape near-ground conditions.</p>
+<p class="student-contact"><a href="mailto:522024360021@smail.nju.edu.cn">522024360021@smail.nju.edu.cn</a></p>
+<p class="student-hobby">Interests: fitness, pet care and trying new challenges.</p>
+:::
+:::
+
+::: {.graduate-profile .student-profile}
+![](../assets/people/chen-jiajing.jpeg){.person-photo .student-photo alt="陈佳静"}
+
+::: {.person-details}
+### 陈佳静
+<p class="student-meta">Professional master’s student · 2025–present</p>
+<p>Interested in surrogate modelling for urban microclimate and vegetation optimisation for improving outdoor thermal comfort.</p>
+<p class="student-contact"><a href="mailto:jiajingchen@smail.nju.edu.cn">jiajingchen@smail.nju.edu.cn</a></p>
+<p class="student-hobby">Interests: crafts, mystery programmes, board games, travel and city walks.</p>
+:::
+:::
+:::
+
+::: {.people-section .current-projects}
+## Current Projects
+
+::: {.student-project data-project-id="qingke"}
+### Qingke project
+<p class="project-period">April–December 2026</p>
+<p class="project-summary">Focuses on environmental attributes of campus public spaces, microclimatic performance, and patterns of resting behaviour.</p>
+
+::: {.project-members}
+::: {.student-profile}
+![](../assets/people/feng-kuangyao.jpeg){.person-photo .student-photo alt="冯匡尧"}
+<h3>冯匡尧</h3>
+<p class="student-meta">Smart Human Settlements Experimental Program undergraduate · 2025–present</p>
+<p class="student-focus">Focuses on relationships between microclimate conditions and use of campus public spaces.</p>
+<p class="student-contact"><a href="mailto:251294002@smail.nju.edu.cn">251294002@smail.nju.edu.cn</a></p>
+<p class="student-hobby">Interests: music and model building.</p>
+:::
+::: {.student-profile}
+![](../assets/people/dai-xincheng.jpeg){.person-photo .student-photo alt="戴心诚"}
+<h3>戴心诚</h3>
+<p class="student-meta">Smart Human Settlements Experimental Program undergraduate · 2025–present</p>
+<p class="student-focus">Focuses on data analysis, front-end work and visualisation for project documentation and communication.</p>
+<p class="student-contact"><a href="mailto:251294015@smail.nju.edu.cn">251294015@smail.nju.edu.cn</a></p>
+<p class="student-hobby">Interests: hiking, photography and visual design.</p>
+:::
+::: {.student-profile}
+![](../assets/people/liu-haoyu.jpeg){.person-photo .student-photo alt="刘浩宇"}
+<h3>刘浩宇</h3>
+<p class="student-meta">Smart Human Settlements Experimental Program undergraduate · 2025–present</p>
+<p class="student-focus">Focuses on computer vision and multimodal models for observing environmental behaviour.</p>
+<p class="student-contact"><a href="mailto:251294016@smail.nju.edu.cn">251294016@smail.nju.edu.cn</a></p>
+<p class="student-hobby">Interests: Go.</p>
+:::
+::: {.student-profile}
+![](../assets/people/sun-yijia.jpeg){.person-photo .student-photo alt="孙乙珈"}
+<h3>孙乙珈</h3>
+<p class="student-meta">Smart Human Settlements Experimental Program undergraduate · 2025–present</p>
+<p class="student-focus">Focuses on processing microclimate and behavioural-observation data and examining their relationships.</p>
+<p class="student-contact"><a href="mailto:251293005@nju.edu.cn">251293005@nju.edu.cn</a></p>
+<p class="student-hobby">Interests: calligraphy, reading and piano.</p>
+:::
+:::
+:::
+:::
+
+::: {#join-us .join-us-note}
+<span class="meta">Interested in joining us?</span>
+
+For a concise guide to contacting Owl Lab, read [Join Us →](join/index.qmd){.text-link}
+:::

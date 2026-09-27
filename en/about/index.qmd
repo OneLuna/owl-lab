@@ -1,0 +1,79 @@
+---
+title: "About Owl Lab"
+lang: en
+description: "Owl Lab studies the complex and evolving relationships between climate, urban space, and people."
+---
+
+::: {.page-intro .about-intro}
+::: {.about-hero-copy}
+# About Owl Lab {.initial-accent}
+
+<p class="lede"><strong>Owl Lab studies the complex and evolving relationships between climate, urban space, and people.</strong></p>
+
+<p class="about-hero-summary">Our research begins with urban climate and the built environment: how spatial conditions shape environmental processes, how these processes become human exposure, perception, and behavior, and how such knowledge can inform climate-responsive design and planning.</p>
+:::
+
+![](../../assets/brand/owl-lab-logo.png){.about-hero-logo alt="Owl Lab logo"}
+:::
+
+::: {.about-prose}
+We work across scales—from cities and urban blocks to public spaces and individual experience—and draw on field observation, remote sensing, numerical simulation, spatial analysis, and emerging computational methods. Rather than defining the lab by a single object or technique, we are interested in questions that matter and in meaningful connections across scales, methods, and forms of evidence.
+:::
+
+::: {.editorial-section .why-owl}
+::: {.section-head}
+<span class="section-number">Owl</span>
+
+## Why Owl? {.initial-accent}
+:::
+
+The name Owl Lab began with a simple association.
+
+Owls evoke curiosity, observation, and knowledge, while the word itself also carries a small personal connection to the lab's founder. As the group takes shape, we have begun to give the three letters another meaning.
+
+::: {.owl-groups}
+::: {.owl-group .owl-research}
+### How we research
+
+<p class="owl-line"><span class="owl-word"><span>O</span>bserve</span> · <span class="owl-word"><span>W</span>eigh</span> · <span class="owl-word"><span>L</span>ink</span></p>
+
+::: {.owl-terms}
+::: {}
+#### <span class="owl-word"><span>O</span>bserve</span>
+Start from the world as it is, and pay close attention to complex and changing urban environmental processes.
+:::
+::: {}
+#### <span class="owl-word"><span>W</span>eigh</span>
+Examine evidence, compare explanations, and take uncertainty and boundaries seriously.
+:::
+::: {}
+#### <span class="owl-word"><span>L</span>ink</span>
+Connect scales, methods, and experiences to understand climate, space, and people as parts of the same problem.
+:::
+:::
+:::
+
+::: {.owl-group .owl-grow}
+### How we grow
+
+<p class="owl-line"><span class="owl-word"><span>O</span>pen</span> · <span class="owl-word"><span>W</span>onder</span> · <span class="owl-word"><span>L</span>earn</span></p>
+
+::: {.owl-terms}
+::: {}
+#### <span class="owl-word"><span>O</span>pen</span>
+Remain open to different perspectives, unfamiliar questions, and new paths of inquiry.
+:::
+::: {}
+#### <span class="owl-word"><span>W</span>onder</span>
+Keep the curiosity to notice what does not yet make sense—and to keep asking why.
+:::
+::: {}
+#### <span class="owl-word"><span>L</span>earn</span>
+Treat research as an ongoing process of learning, revising judgment, and growing together.
+:::
+:::
+:::
+:::
+
+<p class="about-closing">These are not fixed definitions of OWL, but a current expression of how we think about doing research and growing together.</p>
+:::

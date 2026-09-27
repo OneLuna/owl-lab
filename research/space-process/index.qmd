@@ -1,0 +1,34 @@
+---
+title: "城市空间与环境过程"
+lang: zh
+description: "Owl Lab 研究线索 01"
+---
+
+::: {.page-intro}
+# 城市空间与环境过程
+<p class="lede">空间条件与空间干预如何产生环境效应？这些效应又如何随时间、尺度与气候条件发生变化？</p>
+:::
+
+::: {.prose .research-thread-page}
+<p class="meta">01 · Urban Space &amp; Environmental Processes</p>
+
+## 从空间到过程
+
+建筑形态、蓝绿空间、树木、遮阴及其他空间干预持续塑造城市热环境与微气候。这一研究线关注这些环境效应的形成、变化与稳定性，以及它们在不同尺度、背景气候和极端事件中的表现。
+
+## 概念范围
+
+蓝绿空间、树木与遮阴、城市形态、公共空间与城市更新等，都是理解空间—环境关系的重复出现的对象；这里呈现的是已发表工作所建立的研究脉络，而非正在进行的项目。
+
+## Selected published work
+
+::: {.thread-publications .thread-violet}
+<p><strong>Ouyang et al. (2020).</strong> The cooling efficiency of variable greenery coverage ratios in different urban densities: A study in a subtropical climate. <em>Building and Environment</em>, 174, 106772. <a href="https://doi.org/10.1016/j.buildenv.2020.106772">DOI →</a></p>
+<p><strong>Ouyang et al. (2023).</strong> How to quantify the cooling effects of green infrastructure strategies from a spatio-temporal perspective: Experience from a parametric study. <em>Landscape and Urban Planning</em>, 237, 104808. <a href="https://doi.org/10.1016/j.landurbplan.2023.104808">DOI →</a></p>
+<p><strong>Liu et al. (2025).</strong> The dual impacts of built environment on extreme heat and urban heat resilience: A comparative study in Beijing. <em>Urban Climate</em>, 64, 102618. <a href="https://doi.org/10.1016/j.uclim.2025.102618">DOI →</a></p>
+<p><strong>Supporting / foundational work</strong></p>
+<ul><li>Ouyang et al. (2021). Thermal-irradiant performance of green infrastructure typologies: Field measurement study in a subtropical climate city. <em>Science of The Total Environment</em>.</li><li>Wang &amp; Ouyang (2021). Investigating the heterogeneity of water cooling effect for cooler cities. <em>Sustainable Cities and Society</em>.</li><li>Ouyang et al. (2024). Natural shading vs. artificial shading: A comparative analysis of their cooling efficacy in extreme hot weather. <em>Urban Climate</em>.</li><li>Wang, Ouyang &amp; Zhang (2024). Matching Supply and Demand of Cooling Service Provided by Urban Green and Blue Space. <em>Urban Forestry &amp; Urban Greening</em>.</li><li>Morakinyo et al. (2020). Right tree, right place (urban canyon): Tree species selection approach for optimum urban heat mitigation. <em>Science of the Total Environment</em>.</li></ul>
+:::
+
+[← 返回 Research](../index.qmd){.text-link}
+:::

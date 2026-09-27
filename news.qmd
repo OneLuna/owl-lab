@@ -1,0 +1,14 @@
+---
+title: "News"
+lang: zh
+description: "Owl Lab 动态"
+---
+
+::: {.page-intro}
+# News {.page-title .initial-accent}
+<p class="lede">研究、教学、分享与团队发展的简短时间记录。</p>
+:::
+
+::: {.prose}
+<p class="content-placeholder">尚未加入动态。确认后的内容将按时间倒序排列，并可使用轻量标签。</p>
+:::

@@ -1,0 +1,29 @@
+- id: "short-stable-id"
+  status: "provisional | active | complete"
+  visibility: "public | internal"
+  title: "Project title"
+  title_zh: "项目标题"
+  title_en: "Working English title"
+  title_en_status: "official | working translation"
+  funding_zh: "Funding agency or programme"
+  funding_en: "Funding agency or programme in English"
+  role: "PI | Co-I | Core Member"
+  period: "Project period or explicit placeholder"
+  period_zh: "项目周期或明确的占位说明"
+  project_no: ""
+  summary: "Short editorial explanation"
+  summary_zh: "简短的编辑性说明"
+  summary_en: "Short editorial explanation in English"
+  threads: []
+  type: "led | collaborative"
+  # Keep this list aligned with verified IDs in data/people.yml. Do not add
+  # unconfirmed members just to complete a project roster.
+  member_ids: []
+  route: ""
+  # Optional fields for a future standalone project page. Do not expose
+  # unpublished detail through the People page.
+  question: ""
+  question_zh: ""
+  publication_ids: []
+  image: ""
+  image_alt: ""

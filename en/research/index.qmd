@@ -1,0 +1,148 @@
+---
+title: "Research"
+lang: en
+description: "Owl Lab research framework and selected publications"
+---
+
+::: {.page-intro}
+# Research {.page-title .initial-accent}
+<p class="lede">We start from space, trace environmental processes, connect them to people, and bring the resulting knowledge back to design.</p>
+:::
+
+::: {.editorial-section}
+::: {.section-head}
+<span class="section-number">Framework</span>
+
+## Conceptual framework
+:::
+
+<figure class="research-framework-figure">
+  <img src="../../assets/research/owl-lab-research-structure.png" alt="Owl Lab research structure: climate-responsive built environment connecting urban space and environmental processes, human–environment interaction, and environmental sensing, modelling and computation across multiple scales." loading="lazy">
+</figure>
+:::
+
+::: {.editorial-section}
+::: {.section-head}
+<span class="section-number">1 + 3</span>
+
+## Research threads
+:::
+
+::: {.research-index .research-index-three}
+::: {.project-row .thread-violet}
+<div><span class="project-kicker">01 · Space &amp; process</span></div>
+::: {}
+### [Urban Space &amp; Environmental Processes](space-process/)
+城市空间与环境过程
+
+<p>How do spatial conditions and interventions produce environmental effects, and how do these effects change across time, scale and climate?</p>
+:::
+:::
+::: {.project-row .thread-clay}
+<div><span class="project-kicker">02 · Human &amp; environment</span></div>
+::: {}
+### [Human–Environment Interaction](human-environment/)
+人与环境交互
+
+<p>How do environmental conditions become human exposure, perception, behavior and health, and how can this knowledge inform spatial design?</p>
+:::
+:::
+::: {.project-row .thread-blue-grey}
+<div><span class="project-kicker">03 · Methods &amp; computation</span></div>
+::: {}
+### [Environmental Sensing, Modelling &amp; Computation](sensing-modelling/)
+环境感知、建模与计算
+
+<p>How can urban environmental processes be sensed, quantified and modelled more accurately and efficiently?</p>
+:::
+:::
+:::
+:::
+
+::: {.editorial-section .funded-projects}
+::: {.section-head}
+<span class="section-number">Funded</span>
+
+## Funded Projects {.initial-accent}
+:::
+
+<p class="project-title-note">The source record provides Chinese titles only; English titles and funding names below are working translations.</p>
+
+::: {.funded-project-group}
+### Projects led by Owl Lab
+
+::: {.funded-project .funded-project-led .thread-violet}
+<div class="funded-project-meta"><span>2027–2029</span><span>National Natural Science Foundation of China Young Scientists Fund · PI</span></div>
+<h3>Dynamic Thermal Exposure Mechanisms and Spatial Optimisation of New Urban District Streets for Age-Friendly Walking: A Case Study in a Hot-Summer Cold-Winter Climate</h3>
+<p>Studies dynamic thermal exposure on streets in new urban districts for age-friendly walking in hot-summer cold-winter climates, with implications for spatial optimisation.</p>
+<div class="funded-project-tags"><span>Human–Environment Interaction</span><span>Urban Space &amp; Environmental Processes</span></div>
+:::
+
+::: {.funded-project .funded-project-led .thread-sage}
+<div class="funded-project-meta"><span>2026–2028</span><span>Natural Science Foundation of Jiangsu Province Young Scientists Fund · PI</span></div>
+<h3>Thresholds and Spatial Configuration Methods for Thermal-Environment Improvement through Precision Greening in Urban Block Renewal</h3>
+<p>Examines thermal-improvement thresholds and spatial configuration methods for precision greening in urban block renewal.</p>
+<div class="funded-project-tags"><span>Urban Space &amp; Environmental Processes</span></div>
+:::
+
+::: {.funded-project .funded-project-led .thread-blue-grey}
+<div class="funded-project-meta"><span>2025–2027</span><span>Open Research Project of the Ministry of Education Key Laboratory of High-Density Human Settlements Ecology and Energy Conservation · PI</span></div>
+<h3>Dynamic Cooling Mechanisms and Optimisation of Urban Blue-Green Spaces Based on Explainable Artificial Intelligence (XAI)</h3>
+<p>Studies the dynamic cooling mechanisms of urban blue-green spaces and explores optimisation supported by explainable artificial intelligence.</p>
+<div class="funded-project-tags"><span>Urban Space &amp; Environmental Processes</span><span>Environmental Sensing, Modelling &amp; Computation</span></div>
+:::
+
+::: {.funded-project .funded-project-led .thread-blue-grey}
+<div class="funded-project-meta"><span>2025–2026</span><span>Open Fund Project of the Key Laboratory of Monitoring, Evaluation and Early Warning for Territorial Spatial Planning, Ministry of Natural Resources · PI</span></div>
+<h3>Intelligent Layout and Optimisation Methods for Blue-Green Spaces in Urban Renewal towards Improved Heat Resilience</h3>
+<p>Develops intelligent layout and optimisation methods for blue-green spaces in urban renewal oriented towards improved heat resilience.</p>
+<div class="funded-project-tags"><span>Urban Space &amp; Environmental Processes</span><span>Environmental Sensing, Modelling &amp; Computation</span></div>
+:::
+:::
+:::
+
+::: {.editorial-section .selected-publications}
+::: {.section-head}
+<span class="section-number">Selected</span>
+
+## Selected Publications {.initial-accent}
+:::
+
+::: {.publication-groups}
+::: {.publication-group .thread-violet}
+### 01 Urban Space &amp; Environmental Processes
+<p class="publication-title-zh">城市空间与环境过程</p>
+::: {.publication-entry}
+<span>2020</span><div><h4>The cooling efficiency of variable greenery coverage ratios in different urban densities: A study in a subtropical climate.</h4><p>Ouyang, W., Morakinyo, T. E., Ren, C., &amp; Ng, E. <em>Building and Environment</em>, 174, 106772.</p><div class="publication-description"><strong class="publication-microhead">Greenness × urban density: how does cooling efficiency change?</strong><span class="publication-explanation">Examines how cooling performance varies across combinations of greenery coverage and urban density.</span></div><a href="https://doi.org/10.1016/j.buildenv.2020.106772">DOI / View paper →</a></div>
+:::
+::: {.publication-entry}
+<span>2023</span><div><h4>How to quantify the cooling effects of green infrastructure strategies from a spatio-temporal perspective: Experience from a parametric study.</h4><p>Ouyang, W., Morakinyo, T. E., Lee, Y., Tan, Z., Ren, C., &amp; Ng, E. <em>Landscape and Urban Planning</em>, 237, 104808.</p><div class="publication-description"><strong class="publication-microhead">Putting cooling back into space and time.</strong><span class="publication-explanation">Quantifies green-infrastructure cooling from a spatio-temporal perspective and traces how its performance varies across spatial and temporal conditions.</span></div><a href="https://doi.org/10.1016/j.landurbplan.2023.104808">DOI / View paper →</a></div>
+:::
+::: {.publication-entry}
+<span>2025</span><div><h4>The dual impacts of built environment on extreme heat and urban heat resilience: A comparative study in Beijing.</h4><p>Liu, Q., Ouyang, W., Tan, Z., Mei, Y., &amp; Bai, B. <em>Urban Climate</em>, 64, 102618.</p><div class="publication-description"><strong class="publication-microhead">How does urban space shape both extreme heat and heat resilience?</strong><span class="publication-explanation">Examines how built-environment attributes relate to thermal conditions and urban heat resilience during extreme heat.</span></div><a href="https://doi.org/10.1016/j.uclim.2025.102618">DOI / View paper →</a></div>
+:::
+:::
+
+::: {.publication-group .thread-clay}
+### 02 Human–Environment Interaction
+<p class="publication-title-zh">人与环境交互</p>
+::: {.publication-entry}
+<span>2025</span><div><h4>Comparative evaluation of PET and mPET models for outdoor walking in hot-humid climates.</h4><p>Ouyang, W., Tan, Z., Chen, Y.-C., &amp; Ren, G. <em>Building and Environment</em>, 271, 112636.</p><div class="publication-description"><strong class="publication-microhead">What happens to thermal comfort metrics when people start walking?</strong><span class="publication-explanation">Compares PET and mPET for outdoor walking in hot-humid climates, bringing thermal assessment into a dynamic pedestrian context.</span></div><a href="https://doi.org/10.1016/j.buildenv.2025.112636">DOI / View paper →</a></div>
+:::
+::: {.publication-entry}
+<span>2025</span><div><h4>The comparative thermal experience of young and old pedestrians in urban green spaces and in densely built areas.</h4><p>Tan, Z., Christopoulos, G., Roberts, A. C., Ren, G., Ouyang, W., Lo, K., &amp; Ho, C. <em>Urban Forestry &amp; Urban Greening</em>, 105, 128712.</p><div class="publication-description"><strong class="publication-microhead">Same city, different ages, different thermal experiences?</strong><span class="publication-explanation">Compares young and older pedestrians across urban green spaces and densely built areas, linking thermal experience to both people and place.</span></div><a href="https://doi.org/10.1016/j.ufug.2025.128712">DOI / View paper →</a></div>
+:::
+:::
+
+::: {.publication-group .thread-blue-grey}
+### 03 Environmental Sensing, Modelling &amp; Computation
+<p class="publication-title-zh">环境感知、建模与计算</p>
+::: {.publication-entry}
+<span>2021</span><div><h4>Evaluating the thermal-radiative performance of ENVI-met model for green infrastructure typologies: Experience from a subtropical climate.</h4><p>Ouyang, W., Sinsel, T., Simon, H., Morakinyo, T. E., Liu, H., &amp; Ng, E. <em>Building and Environment</em>, 108427.</p><div class="publication-description"><strong class="publication-microhead">Can the model capture thermal-radiative conditions around green infrastructure?</strong><span class="publication-explanation">Evaluates ENVI-met against measured thermal-radiative conditions across different green-infrastructure typologies.</span></div><a href="https://doi.org/10.1016/j.buildenv.2021.108427">DOI / View paper →</a></div>
+:::
+::: {.publication-entry}
+<span>2022</span><div><h4>Comparing Different Recalibrated Methods for Estimating Mean Radiant Temperature in Outdoor Environment.</h4><p>Ouyang, W., Liu, Z., Lau, K., Shi, Y., &amp; Ng, E. <em>Building and Environment</em>, 109004.</p><div class="publication-description"><strong class="publication-microhead">How can outdoor MRT be estimated more accurately?</strong><span class="publication-explanation">Compares recalibrated approaches for mean radiant temperature estimation and evaluates their applicability to outdoor environmental measurement.</span></div><a href="https://doi.org/10.1016/j.buildenv.2022.109004">DOI / View paper →</a></div>
+:::
+:::
+:::
+:::

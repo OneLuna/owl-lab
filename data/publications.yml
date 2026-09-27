@@ -1,0 +1,45 @@
+# Confirmed representative publications used by the Research pages.
+# Keep new records structured; the research pages currently curate their own selected subset.
+# Valid research thread keys: space-process, human-environment, sensing-modelling.
+- year: 2020
+  title: "The cooling efficiency of variable greenery coverage ratios in different urban densities: A study in a subtropical climate"
+  authors: "Ouyang, W., Morakinyo, T. E., Ren, C., & Ng, E."
+  venue: "Building and Environment, 174, 106772"
+  doi: "https://doi.org/10.1016/j.buildenv.2020.106772"
+  research_threads: [space-process]
+- year: 2023
+  title: "How to quantify the cooling effects of green infrastructure strategies from a spatio-temporal perspective: Experience from a parametric study"
+  authors: "Ouyang, W., Morakinyo, T. E., Lee, Y., Tan, Z., Ren, C., & Ng, E."
+  venue: "Landscape and Urban Planning, 237, 104808"
+  doi: "https://doi.org/10.1016/j.landurbplan.2023.104808"
+  research_threads: [space-process]
+- year: 2025
+  title: "The dual impacts of built environment on extreme heat and urban heat resilience: A comparative study in Beijing"
+  authors: "Liu, Q., Ouyang, W., Tan, Z., Mei, Y., & Bai, B."
+  venue: "Urban Climate, 64, 102618"
+  doi: "https://doi.org/10.1016/j.uclim.2025.102618"
+  research_threads: [space-process]
+- year: 2025
+  title: "Comparative evaluation of PET and mPET models for outdoor walking in hot-humid climates"
+  authors: "Ouyang, W., Tan, Z., Chen, Y.-C., & Ren, G."
+  venue: "Building and Environment, 271, 112636"
+  doi: "https://doi.org/10.1016/j.buildenv.2025.112636"
+  research_threads: [human-environment]
+- year: 2025
+  title: "The comparative thermal experience of young and old pedestrians in urban green spaces and in densely built areas"
+  authors: "Tan, Z., Christopoulos, G., Roberts, A. C., Ren, G., Ouyang, W., Lo, K., & Ho, C."
+  venue: "Urban Forestry & Urban Greening, 105, 128712"
+  doi: "https://doi.org/10.1016/j.ufug.2025.128712"
+  research_threads: [human-environment]
+- year: 2021
+  title: "Evaluating the thermal-radiative performance of ENVI-met model for green infrastructure typologies: Experience from a subtropical climate"
+  authors: "Ouyang, W., Sinsel, T., Simon, H., Morakinyo, T. E., Liu, H., & Ng, E."
+  venue: "Building and Environment, 108427"
+  doi: "https://doi.org/10.1016/j.buildenv.2021.108427"
+  research_threads: [sensing-modelling]
+- year: 2022
+  title: "Comparing Different Recalibrated Methods for Estimating Mean Radiant Temperature in Outdoor Environment"
+  authors: "Ouyang, W., Liu, Z., Lau, K., Shi, Y., & Ng, E."
+  venue: "Building and Environment, 109004"
+  doi: "https://doi.org/10.1016/j.buildenv.2022.109004"
+  research_threads: [sensing-modelling]

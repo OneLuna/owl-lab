@@ -1,0 +1,33 @@
+---
+title: "Environmental Sensing, Modelling & Computation"
+lang: en
+description: "Owl Lab research thread 03"
+---
+
+::: {.page-intro}
+# Environmental Sensing, Modelling &amp; Computation
+<p class="lede">How can urban environmental processes be sensed, quantified and modelled more accurately and efficiently?</p>
+:::
+
+::: {.prose .research-thread-page}
+<p class="meta">03 · 环境感知、建模与计算</p>
+
+## Making methods fit real questions
+
+Urban environmental research depends on what we can see, measure and translate into information that can be analysed and modelled. This thread examines the applicability of environmental sensing, microclimate simulation and computational approaches, improving their accuracy, efficiency and usability through validation, recalibration, parameterization, model refinement and acceleration.
+
+## Conceptual scope
+
+<p class="research-progression">Sense → Quantify → Model → Refine → Accelerate</p>
+
+## Selected published work
+
+::: {.thread-publications .thread-blue-grey}
+<p><strong>Ouyang et al. (2021).</strong> Evaluating the thermal-radiative performance of ENVI-met model for green infrastructure typologies: Experience from a subtropical climate. <em>Building and Environment</em>, 108427. <a href="https://doi.org/10.1016/j.buildenv.2021.108427">DOI →</a></p>
+<p><strong>Ouyang et al. (2022).</strong> Comparing Different Recalibrated Methods for Estimating Mean Radiant Temperature in Outdoor Environment. <em>Building and Environment</em>, 109004. <a href="https://doi.org/10.1016/j.buildenv.2022.109004">DOI →</a></p>
+<p><strong>Supporting methodological work</strong></p>
+<ul><li>Sinsel et al. (2022). Implementation and evaluation of mean radiant temperature schemes in the microclimate model ENVI-met. <em>Urban Climate</em>.</li><li>Liu et al. (2023). Modeling microclimatic effects of trees and green roofs/façades in ENVI-met: Sensitivity tests and proposed model library. <em>Building and Environment</em>.</li><li>Schöneberger et al. (2025). Enhancing urban microclimate simulations: Validating ENVI-met’s accuracy in modeling multi-directional radiative fluxes and mean radiant temperature in subtropical Hong Kong. <em>Building and Environment</em>.</li><li>Wang et al. (2025). A multi-scale mapping approach of local climate zones: A case study in Hong Kong. <em>Urban Climate</em>.</li></ul>
+:::
+
+[← Back to Research](../index.qmd){.text-link}
+:::
