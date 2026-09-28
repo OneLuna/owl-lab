@@ -24,11 +24,12 @@ project:
     - en/join/index.qmd
   resources:
     - assets/**
+    - CNAME
 
 website:
   title: "Owl Lab"
   description: "气候 · 空间 · 人"
-  site-url: "https://oneluna.github.io/owl-lab/"
+  site-url: "https://owllab.space/"
   favicon: assets/favicon.svg
   search: false
   navbar:
