@@ -1,1 +1,1 @@
-Sitemap: https://oneluna.github.io/owl-lab/sitemap.xml
+Sitemap: https://owllab.space/sitemap.xml
